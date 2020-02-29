@@ -1,6 +1,8 @@
 # Pearson-3-Probability-Curve
 Analyze and draw Pearson 3 probability curve, using matplotlib, scipy and numpy
 
+最初版本为MATLAB版，但因为**李斯特**同学发现了Python库能够直接进行绘制海森概率曲线和P3曲线，
+所以使用Python进行重构。
 使用Python以及matplotlib，scipy和numpy库对数据进行简要的P3曲线分析，
 能够计算数据的数学期望EX，变差系数Cv和偏态系数Cs。
 
